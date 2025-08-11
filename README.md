@@ -1,1 +1,6 @@
-# bravePinocchio.github.io
+### Enjoy
+
+Fire up a browser and go to `https://<bravePinocchio>.github.io`
+
+
+
